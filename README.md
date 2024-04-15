@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Mist
+## Hi 👋, I'm Mist
 
 An average front-end development engineer.
 
@@ -10,4 +10,4 @@ An average front-end development engineer.
 
 **Backend:**
 
-[![SkillIcons](https://skillicons.dev/icons?i=nodejs,mongodb,nginx)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=mongodb,nodejs,nginx)](https://skillicons.dev)
