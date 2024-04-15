@@ -6,7 +6,7 @@ An average front-end development engineer.
 
 **Frontend:**
 
-[![SkillIcons](https://skillicons.dev/icons?i=css,html,js,less,react,ts,vscode,webpack)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=css,html,js,less,react,ts,webpack)](https://skillicons.dev)
 
 **Backend:**
 
